@@ -1,0 +1,16 @@
+body{
+background-image:url('cool-background.png');
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+
+.bot{
+ 	position: absolute;
+	bottom: 15px;
+	text-align: right;
+}
+.chap{
+	position: absolute;
+	text-align: right;
+	right: 15px;
+}
